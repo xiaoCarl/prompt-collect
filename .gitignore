@@ -1,0 +1,26 @@
+# OpenCode temporary files
+opencodetmp/
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# Output of 'npm pack'
+*.tgz
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+
+# Mypy
+.mypy_cache/
